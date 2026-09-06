@@ -22,6 +22,15 @@ HTML = """
 <body>
     <div class="card">
         <div class="ad-space">📢 <b>Google AdSense Area</b><br>Ads will appear here to generate revenue.</div>
+        <!-- Temu Affiliate Banner -->
+<div style="background: linear-gradient(135deg, #ff6b00 0%, #ff8800 100%); color: #ffffff; padding: 20px; border-radius: 12px; text-align: center; margin: 25px 0; box-shadow: 0 4px 15px rgba(255,107,0,0.3);">
+    <h3 style="margin: 0 0 10px 0; font-size: 20px; color: #ffffff;">🛍️ Exclusive Offer on Temu!</h3>
+    <p style="margin: 0 0 15px 0; font-size: 14px; opacity: 0.95;">Get free gifts, free shipping, and 90-day free returns.</p>
+    <a href="https://temu.to/k/e6o45ia6r43" target="_blank" style="display: inline-block; background-color: #ffffff; color: #ff6b00; padding: 12px 28px; text-decoration: none; border-radius: 25px; font-weight: bold; font-size: 16px; transition: transform 0.2s;">
+        Claim Free Gift & Shop Now! (Use Code: als868300)
+    </a>
+</div>
+
         <h2>✨ Text Case Converter Pro</h2>
         <p>Convert your text to Uppercase, Lowercase, or Title Case instantly.</p>
         <form method="POST">
