@@ -5,7 +5,8 @@ app = Flask(__name__)
 HTML = """
 <!DOCTYPE html>
 <html>
-<head>
+<head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5419022866172835"
+     crossorigin="anonymous"></script>
     <title>Text Case Converter Pro</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 40px; background: #f4f6f8; }
